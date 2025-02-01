@@ -3,7 +3,9 @@
 ## Ejecutando ejercicio en Haskell vs python
 
 ghc --version
+
 cabal --version
+
 python --version
 
 se tiene que tener la extension de Haskell para vscode
